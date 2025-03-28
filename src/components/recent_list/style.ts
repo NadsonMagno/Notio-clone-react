@@ -10,5 +10,10 @@ export const styles = StyleSheet.create({
         color: colors.gray[300],
         fontSize: 16,
         marginLeft: 16,
+    },
+
+    content:{
+        gap : 12,
+        paddingHorizontal: 20,
     }
 });
